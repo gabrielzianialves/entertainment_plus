@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap');
+
+.header {
+  width: 100%;
+  height: 14%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 32px;
+  background-color: #1F1F1F;
+}
+
+.logo {
+  color: white;
+  font-family: "Sora", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.logo span {
+  color: #C91215;
+}
+
+.avatar {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+
+  background-color: white;
+}

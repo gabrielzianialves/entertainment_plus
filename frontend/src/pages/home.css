@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap');
+
+.title-button {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0 100px;
+    margin-top: 60px;
+}
+
+.title {
+    font-family: "Sora", sans-serif;
+    font-size: 28px;
+}
+
+.button {
+    width: 200px;
+    border-radius: 15px;
+    background-color: #C91215;
+    color: white;
+    font-family: Sora;
+    border: 0;
+}

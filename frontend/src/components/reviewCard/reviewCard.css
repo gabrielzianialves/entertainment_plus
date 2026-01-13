@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap');
+
+.card {
+    background-color: #FBFBFB;
+    border-radius: 33px;
+    margin: 0 200px;
+    height: 300px;
+    margin-top: 60px;
+}
+
+.card-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 40px;
+    margin-left: 45px;
+}
+
+.show-title {
+    font-family: Sora;
+    color: black;
+}
+
+.stars {
+    color: black;
+    margin-right: 50px;
+    margin-top: -8px;
+}
+
+.star {
+    font-size: 40px;
+}
+
+.star.filled {
+  color: #C91215;
+}
+
+.date-container {
+    display: flex;
+    flex-direction: column;
+    color: black;
+    margin-top: 40px;
+    margin-left: 45px;
+}
+
+.date-title {
+    font-weight: bold;
+    font-family: Sora;
+}
+
+.date {
+    font-weight: 100;
+    font-family: Inter;
+}
+
+.comment-container {
+    color: black;
+    margin-top: 40px;
+    margin-left: 45px;
+}
+
+.comment-title {
+    font-family: Sora;
+    color: #C91215;
+    font-weight: bold;
+}

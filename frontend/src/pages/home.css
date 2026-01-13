@@ -1,10 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap');
 
+.home {
+    display: flex;
+    flex-direction: column;
+}
+
 .title-button {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    padding: 0 100px;
+    padding: 0 200px;
     margin-top: 60px;
 }
 
